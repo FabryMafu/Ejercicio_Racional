@@ -30,14 +30,6 @@ public class Racional
     {
         return new Racional(a._numerador * b._numerador, a._denominador * b._denominador);
     }
-    public static Racional operator *(Racional a, int b)
-    {
-    return new Racional(a._numerador * b, a._denominador);
-    }
-    public static Racional operator *(int a, Racional b)
-    {
-    return new Racional(b._numerador * a, b._denominador);
-    }
     public Racional Dividir(Racional dividiendo)
     {
         return new Racional(_numerador * dividiendo._denominador, _denominador * dividiendo._numerador);
