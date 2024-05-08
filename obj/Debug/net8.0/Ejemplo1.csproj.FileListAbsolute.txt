@@ -1,0 +1,14 @@
+A:\Programacion Avanzada\Ejercicio 3-5\bin\Debug\net8.0\Ejemplo1.exe
+A:\Programacion Avanzada\Ejercicio 3-5\bin\Debug\net8.0\Ejemplo1.deps.json
+A:\Programacion Avanzada\Ejercicio 3-5\bin\Debug\net8.0\Ejemplo1.runtimeconfig.json
+A:\Programacion Avanzada\Ejercicio 3-5\bin\Debug\net8.0\Ejemplo1.dll
+A:\Programacion Avanzada\Ejercicio 3-5\bin\Debug\net8.0\Ejemplo1.pdb
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\Ejemplo1.AssemblyInfoInputs.cache
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\Ejemplo1.AssemblyInfo.cs
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\Ejemplo1.csproj.CoreCompileInputs.cache
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\Ejemplo1.dll
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\refint\Ejemplo1.dll
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\Ejemplo1.pdb
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\Ejemplo1.genruntimeconfig.cache
+A:\Programacion Avanzada\Ejercicio 3-5\obj\Debug\net8.0\ref\Ejemplo1.dll
