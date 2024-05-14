@@ -53,7 +53,7 @@ public class Racional
     {
         try
         {
-            if (b._numerador == 0)
+            if (a._denominador == 0)
             {
                 throw new DivideByZeroException();
             }

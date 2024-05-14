@@ -1,4 +1,4 @@
-﻿Racional unMedio = new Racional(1, 2);
+﻿Racional unMedio = new Racional(1, 0);
 Racional unTercio = new Racional(0, 3);
 
 Racional resultado = unMedio.Dividir(unTercio);
