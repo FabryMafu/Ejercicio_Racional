@@ -27,3 +27,18 @@ C:\Users\FABRY\Desktop\Racional\Ejercicio_Racional\obj\Debug\net8.0\refint\Ejemp
 C:\Users\FABRY\Desktop\Racional\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.pdb
 C:\Users\FABRY\Desktop\Racional\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.genruntimeconfig.cache
 C:\Users\FABRY\Desktop\Racional\Ejercicio_Racional\obj\Debug\net8.0\ref\Ejemplo1.dll
+A:\Programacion Avanzada\Ejercicio_Racional\bin\Debug\net8.0\Ejemplo1.exe
+A:\Programacion Avanzada\Ejercicio_Racional\bin\Debug\net8.0\Ejemplo1.deps.json
+A:\Programacion Avanzada\Ejercicio_Racional\bin\Debug\net8.0\Ejemplo1.runtimeconfig.json
+A:\Programacion Avanzada\Ejercicio_Racional\bin\Debug\net8.0\Ejemplo1.dll
+A:\Programacion Avanzada\Ejercicio_Racional\bin\Debug\net8.0\Ejemplo1.pdb
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.AssemblyInfoInputs.cache
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.AssemblyInfo.cs
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.csproj.CoreCompileInputs.cache
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.sourcelink.json
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.dll
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\refint\Ejemplo1.dll
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.pdb
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\Ejemplo1.genruntimeconfig.cache
+A:\Programacion Avanzada\Ejercicio_Racional\obj\Debug\net8.0\ref\Ejemplo1.dll

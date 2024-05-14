@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FABRY\\Desktop\\Racional\\Ejercicio_Racional\\Ejemplo1.csproj": {}
+    "A:\\Programacion Avanzada\\Ejercicio_Racional\\Ejemplo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FABRY\\Desktop\\Racional\\Ejercicio_Racional\\Ejemplo1.csproj": {
+    "A:\\Programacion Avanzada\\Ejercicio_Racional\\Ejemplo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FABRY\\Desktop\\Racional\\Ejercicio_Racional\\Ejemplo1.csproj",
+        "projectUniqueName": "A:\\Programacion Avanzada\\Ejercicio_Racional\\Ejemplo1.csproj",
         "projectName": "Ejemplo1",
-        "projectPath": "C:\\Users\\FABRY\\Desktop\\Racional\\Ejercicio_Racional\\Ejemplo1.csproj",
-        "packagesPath": "C:\\Users\\FABRY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FABRY\\Desktop\\Racional\\Ejercicio_Racional\\obj\\",
+        "projectPath": "A:\\Programacion Avanzada\\Ejercicio_Racional\\Ejemplo1.csproj",
+        "packagesPath": "C:\\Users\\Fabry\\.nuget\\packages\\",
+        "outputPath": "A:\\Programacion Avanzada\\Ejercicio_Racional\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\FABRY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Fabry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

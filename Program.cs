@@ -1,15 +1,15 @@
 ﻿Racional unMedio = new Racional(1, 2);
-Racional unTercio = new Racional(1, 3);
+Racional unTercio = new Racional(0, 3);
 
-Racional resultado_dividiendo = unMedio.Dividir(unTercio);
-Racional otroresultado_dividiendo = unMedio / unTercio;
+Racional resultado = unMedio.Dividir(unTercio);
+Racional otroResultado = unMedio / unTercio;
 
-Console.WriteLine("Fin de la división");
+Console.WriteLine();
 
 // Racional unMedio = new Racional(1, 2);
 // Racional unTercio = new Racional(1, 3);
 
-Racional resultado_multiplicando = unMedio.Multiplicar(unTercio);
+/* Racional resultado_multiplicando = unMedio.Multiplicar(unTercio);
 Racional otroresultado_multiplicando = unMedio * unTercio;
 
 Console.WriteLine("Fin de la multiplicación");

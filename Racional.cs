@@ -32,10 +32,41 @@ public class Racional
     }
     public Racional Dividir(Racional dividiendo)
     {
-        return new Racional(_numerador * dividiendo._denominador, _denominador * dividiendo._numerador);
+        try
+        {
+            if (dividiendo._numerador == 0)
+            {
+                throw new DivideByZeroException();
+            }
+            return new Racional(_numerador * dividiendo._denominador, _denominador * dividiendo._numerador);
+        }
+        catch (DivideByZeroException ex)
+        {
+            Console.WriteLine("No está permitida la división por 0");
+            return new Racional(0, 0);
+        }
+        finally
+        {
+        }
     }
-        public static Racional operator /(Racional a, Racional b)
+    public static Racional operator /(Racional a, Racional b)
     {
-        return new Racional(a._numerador * b._denominador, a._denominador * b._numerador);
+        try
+        {
+            if (b._numerador == 0)
+            {
+                throw new DivideByZeroException();
+            }
+            return new Racional(a._numerador * b._denominador, a._denominador * b._numerador);
+        }
+        catch (DivideByZeroException ex)
+        {
+            Console.WriteLine("No está permitida la división por 0");
+            return new Racional(0, 0);
+        }
+        finally
+        {
+            Console.WriteLine("Fin de la división");
+        }
     }
 }
